@@ -4,9 +4,9 @@ import (
 	img "image"
 	"image/color"
 
-	"github.com/blizzy78/ebitenui/event"
-	"github.com/blizzy78/ebitenui/image"
-	"github.com/blizzy78/ebitenui/input"
+	"github.com/kintar/ebitenui/v2/event"
+	"github.com/kintar/ebitenui/v2/image"
+	"github.com/kintar/ebitenui/v2/input"
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"golang.org/x/image/font"

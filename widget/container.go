@@ -3,8 +3,8 @@ package widget
 import (
 	img "image"
 
-	"github.com/blizzy78/ebitenui/image"
-	"github.com/blizzy78/ebitenui/input"
+	"github.com/kintar/ebitenui/v2/image"
+	"github.com/kintar/ebitenui/v2/input"
 
 	"github.com/hajimehoshi/ebiten/v2"
 )

@@ -1,7 +1,7 @@
 package input
 
 import (
-	internalinput "github.com/blizzy78/ebitenui/internal/input"
+	internalinput "github.com/kintar/ebitenui/v2/internal/input"
 	"github.com/hajimehoshi/ebiten/v2"
 )
 

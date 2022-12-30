@@ -3,7 +3,7 @@ package widget
 import (
 	"testing"
 
-	"github.com/blizzy78/ebitenui/event"
+	"github.com/kintar/ebitenui/v2/event"
 	"github.com/matryer/is"
 )
 

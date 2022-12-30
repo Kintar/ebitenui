@@ -11,9 +11,9 @@ import (
 
 	_ "image/png"
 
-	"github.com/blizzy78/ebitenui"
-	"github.com/blizzy78/ebitenui/image"
-	"github.com/blizzy78/ebitenui/widget"
+	"github.com/kintar/ebitenui/v2"
+	"github.com/kintar/ebitenui/v2/image"
+	"github.com/kintar/ebitenui/v2/widget"
 )
 
 type game struct {
@@ -101,7 +101,7 @@ func createUI() (*ebitenui.UI, func(), error) {
 	rootContainer.AddChild(urlContainer)
 
 	urlContainer.AddChild(widget.NewText(
-		widget.TextOpts.Text("github.com/blizzy78/ebitenui", res.text.smallFace, res.text.disabledColor)))
+		widget.TextOpts.Text("github.com/kintar/ebitenui/v2", res.text.smallFace, res.text.disabledColor)))
 
 	ui = &ebitenui.UI{
 		Container: rootContainer,

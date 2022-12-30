@@ -3,7 +3,7 @@ package main
 import (
 	"image"
 
-	"github.com/blizzy78/ebitenui/widget"
+	"github.com/kintar/ebitenui/v2/widget"
 	"github.com/hajimehoshi/ebiten/v2"
 )
 

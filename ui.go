@@ -3,10 +3,10 @@ package ebitenui
 import (
 	"image"
 
-	"github.com/blizzy78/ebitenui/event"
-	"github.com/blizzy78/ebitenui/input"
-	internalinput "github.com/blizzy78/ebitenui/internal/input"
-	"github.com/blizzy78/ebitenui/widget"
+	"github.com/kintar/ebitenui/v2/event"
+	"github.com/kintar/ebitenui/v2/input"
+	internalinput "github.com/kintar/ebitenui/v2/internal/input"
+	"github.com/kintar/ebitenui/v2/widget"
 
 	"github.com/hajimehoshi/ebiten/v2"
 )

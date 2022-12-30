@@ -1,7 +1,7 @@
 package widget
 
 import (
-	"github.com/blizzy78/ebitenui/image"
+	"github.com/kintar/ebitenui/v2/image"
 
 	img "image"
 
